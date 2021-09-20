@@ -72,14 +72,14 @@ logo = """
 \033[1;93m  
 \033[1;97m                                                             
                           
-                     d8888b. d88888b .d8888. d888888b 
-                     88  `8D 88'     88'  YP `~~88~~' 
-                     88oooY' 88ooooo `8bo.      88    
-                     88~~~b. 88~~~~~   `Y8b.    88    
-                     88   8D 88.     db   8D    88    
-                     Y8888P' Y88888P `8888Y'    YP    
+                 d8888b. d88888b .d8888. d888888b 
+                 88  `8D 88'     88'  YP `~~88~~' 
+                 88oooY' 88ooooo `8bo.      88    
+                 88~~~b. 88~~~~~   `Y8b.    88    
+                 88   8D 88.     db   8D    88    
+                 Y8888P' Y88888P `8888Y'    YP    
                                   
-                       EVERYTHING IS POSSIBLE TO ME            
+                  EVERYTHING IS POSSIBLE TO ME            
 
                              
                                                                                                                                            
